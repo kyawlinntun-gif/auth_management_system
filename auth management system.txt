@@ -1,0 +1,3 @@
+1. trancuate()
+2. toArray()
+3. bigIncrements() as forigen key in many column
